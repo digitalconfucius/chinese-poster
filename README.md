@@ -3,6 +3,8 @@ A very large Chinese character 汉子 e-poster. Contains the top 99.99 percentil
 
 This website isn't perfect. It is an approximate way for looking at all the Chinese characters you need at once. You can click on each card to see more info on specific definitions.
 
+![image](https://github.com/digitalconfucius/chinese-poster/assets/156959605/99395404-36a8-4ff2-9802-8182788dbefd)
+
 # Usage
 
 ```
