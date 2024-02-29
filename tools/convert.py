@@ -1,6 +1,9 @@
 import csv
 import sys
 
+def is_empty(mystr):
+    return (mystr == None or len(mystr) == 0 or mystr.isspace())
+
 # Check if the user provided a command line argument for the CSV file path
 if len(sys.argv) < 2:
     print("Usage: python script.py path_to_your_file.csv")
@@ -23,16 +26,27 @@ try:
         for row in reader:
             wordcount += 1
 
+            definition_to_return = ""
+
+            if not is_empty(row['definition']):
+                splitted_definition = row['definition'].split(";")
+
+                definition_to_return = splitted_definition[0]
+
             # Skip esoteric, undefined words
-            if wordcount > 5000 and (row['definition'] == None or len(row['definition']) == 0 or row['definition'].isspace()):
+            if wordcount > 5000 and is_empty(row['definition']):
                 continue
+
+            # Only generate the first 6500 characters (99.99 percentile)
+            if wordcount > 6500:
+                break
 
             # Format each row as an HTML div containing the character, pinyin, and definition
             html_output += f'''
             <div class="character-box">
-                <div class="chinese-char">{row['character']}</div>
+                <a href="http://hanzidb.org/character/{row['character']}"> <div class="chinese-char">{row['character']}</div> </a>
                 <div class="pinyin">{row['pinyin']}</div>
-                <div class="english">{row['definition']}</div>
+                <div class="english">{definition_to_return}</div>
             </div>'''
             
     # Print the HTML output to the console
