@@ -43,7 +43,7 @@ frequency_rank,character,pinyin,definition,radical,radical_code,stroke_count,hsk
 42,下,xià,"under, underneath, below; down; inferior; bring down",一,1.2,3,1,0030
 43,自,zì,"self, private, personal; from",自,132.0,6,3,0477
 44,之,zhī,"marks preceding phrase as modifier of following phrase; it, him her, them; go to",丿,4.3,3,4,0058
-45,年,nián,,干,51.3,6,1,0444
+45,年,nián,year,干,51.3,6,1,0444
 46,过,guò,"pass, pass through, go across",辵,162.3,6,2,0379
 47,发,fā,"issue, dispatch, send out; hair",又,29.3,5,3,0339
 48,后,hòu,"queen, empress, sovereign; (simp. for ",口,30.3,6,1,0482
@@ -139,7 +139,7 @@ frequency_rank,character,pinyin,definition,radical,radical_code,stroke_count,hsk
 138,很,hěn,"very, quite, much",彳,60.6,9,1,1584
 139,最,zuì,"most, extremely, exceedingly",曰,73.8,12,2,2614
 140,重,zhòng,"heavy, weighty; double",里,166.2,9,3,1552
-141,并,bìng,,干,51.5,6,4,0531
+141,并,bìng,"and, furthermore, also, (not) at all",干,51.5,6,4,0531
 142,物,wù,"thing, substance, creature",牛,93.4,8,3,1127
 143,手,shǒu,hand,手,64.0,4,2,0121
 144,应,yīng,"should, ought to, must",广,53.4,7,3,0836
@@ -152,11 +152,11 @@ frequency_rank,character,pinyin,definition,radical,radical_code,stroke_count,hsk
 151,美,měi,"beautiful, pretty; pleasing",羊,123.3,9,4,1642
 152,相,xiāng,"mutual, reciprocal, each other",目,109.4,9,3,1430
 153,见,jiàn,"see, observe, behold; perceive",見,147.0,4,1,0118
-154,被,bèi,,衣,145.5,10,3,2118
+154,被,bèi,"quilt, by, passive voice indicator",衣,145.5,10,3,2118
 155,利,lì,"gains, advantage, profit, merit",刀,18.5,7,4,0763
 156,什,shén,"file of ten soldiers; mixed, miscellaneous",人,9.2,4,1,0129
 157,二,èr,two; twice,二,7.0,2,1,0003
-158,等,děng,,竹,118.6,12,2,2681
+158,等,děng,"class, rank, grade, same as, etc",竹,118.6,12,2,2681
 159,产,chǎn,"give birth, bring forth, produce",立,117.1,6,5,0522
 160,或,huò,"or, either, else; perhaps, maybe",戈,62.4,8,3,1035
 161,新,xīn,"new, recent, fresh, modern",斤,69.9,13,2,2994
@@ -376,7 +376,7 @@ frequency_rank,character,pinyin,definition,radical,radical_code,stroke_count,hsk
 375,失,shī,"lose; make mistake, neglect",大,37.2,5,4,0265
 376,转,zhuǎn,"shift, move, turn",車,159.4,8,4,1059
 377,夫,fū,"man, male adult, husband; those",大,37.1,4,2,0079
-378,令,lìng,,人,9.3,5,5,0282
+378,令,lìng,"to order, to command, an order",人,9.3,5,5,0282
 379,准,zhǔn,"approve, allow, permit; in accord",冫,15.8,10,2,2024
 380,布,bù,"cotton cloth, textiles, linen",巾,50.2,5,5,0218
 381,始,shǐ,"begin, start; then, only then",女,38.5,8,2,1329
@@ -469,7 +469,7 @@ frequency_rank,character,pinyin,definition,radical,radical_code,stroke_count,hsk
 468,广,guǎng,"wide, extensive, broad; rad. 53",广,53.0,3,4,0053
 469,显,xiǎn,"manifest, display; evident, clear",日,72.5,9,5,1485
 470,吧,ba,emphatic final particle,口,30.4,7,2,0747
-471,阿,ā,,阜,170.5,7,3,0913
+471,阿,ā,"prefix used before monosyllabic names, kinship terms etc to indicate familiarity",阜,170.5,7,3,0913
 472,李,lǐ,plum; judge; surname,木,75.3,7,3,0688
 473,标,biāo,"mark, symbol, label, sign; stand the bole of a tree",木,75.5,9,4,1424
 474,谈,tán,talk; conversation; surname,言,149.8,10,4,2127
@@ -533,7 +533,7 @@ frequency_rank,character,pinyin,definition,radical,radical_code,stroke_count,hsk
 532,派,pài,"school of thought, sect, branch",水,85.6,9,5,1673
 533,孩,hái,"baby, child; children",子,39.6,9,2,1730
 534,验,yàn,"test, examine, inspect; verify",馬,187.7,10,4,2152
-535,责,zé,,貝,154.4,8,4,0948
+535,责,zé,"duty, responsibility, to reproach",貝,154.4,8,4,0948
 536,营,yíng,"encampment, barracks; manage",艸,140.8,11,5,2214
 537,星,xīng,"a star, planet; any point of light",日,72.5,9,1,1488
 538,够,gòu,"enough, adequate",夕,36.8,11,4,2362
@@ -588,7 +588,7 @@ frequency_rank,character,pinyin,definition,radical,radical_code,stroke_count,hsk
 587,杀,shā,"kill, slaughter, murder; hurt",木,75.2,6,5,0487
 588,攻,gōng,"attack, assault; criticize",攴,66.3,7,6,0630
 589,父,fù,father; KangXi radical 88,父,88.0,4,4,0141
-590,苏,sū,,艸,140.4,7,6,0677
+590,苏,sū,"surname Su, to revive, basil",艸,140.4,7,6,0677
 591,密,mì,"dense, thick, close; intimate",宀,40.8,11,4,2458
 592,低,dī,"low; to lower, hang, bend, bow",人,9.5,7,4,0781
 593,朝,cháo,dynasty; morning,月,74.8,12,5,2559
@@ -648,7 +648,7 @@ frequency_rank,character,pinyin,definition,radical,radical_code,stroke_count,hsk
 647,预,yù,"prepare, arrange; in advance",頁,181.4,10,4,2148
 648,谁,shuí,who? whom? whose? anyone?,言,149.8,10,1,2122
 649,益,yì,"profit, benefit; advantage",皿,108.5,10,5,2055
-650,阳,yáng,,阜,170.4,6,3,0572
+650,阳,yáng,"positive, sun, male principle",阜,170.4,6,3,0572
 651,若,ruò,"if, supposing, assuming; similar",艸,140.5,8,6,1002
 652,哪,nǎ,which? where? how?,口,30.7,9,1,1515
 653,微,wēi,"small, prefix micro-, trifling",彳,60.10,13,4,2965
@@ -724,7 +724,7 @@ frequency_rank,character,pinyin,definition,radical,radical_code,stroke_count,hsk
 723,退,tuì,"step back, retreat, withdraw",辵,162.6,9,5,1720
 724,既,jì,already; de facto; since; then,无,71.5,9,4,1721
 725,衣,yī,"clothes, clothing; cover, skin",衣,145.0,6,1,0520
-726,您,nín,,心,61.7,11,2,2331
+726,您,nín,"you (formal)",心,61.7,11,2,2331
 727,宗,zōng,"lineage, ancestry; ancestor, clan",宀,40.5,8,6,1275
 728,积,jī,"accumulate, store up, amass",禾,115.5,10,4,1945
 729,余,yú,"I, my, me; surname; surplus",人,9.5,7,5,0795
@@ -819,7 +819,7 @@ frequency_rank,character,pinyin,definition,radical,radical_code,stroke_count,hsk
 818,货,huò,"goods, commodities, products",貝,154.4,8,4,1151
 819,互,hù,"mutually, reciprocally",二,7.2,4,4,0106
 820,付,fù,"give, deliver, pay, hand over; entrust",人,9.3,5,4,0269
-821,伯,bó,,人,9.5,7,6,0778
+821,伯,bó,"father's elder brother, senior",人,9.5,7,6,0778
 822,慢,màn,"slow(ly), leisurely, sluggish",心,61.11,14,2,3169
 823,欧,ōu,translit.: Europe; ohm; surname,欠,76.4,8,5,1053
 824,换,huàn,change,手,64.7,10,3,1806
@@ -985,14 +985,14 @@ frequency_rank,character,pinyin,definition,radical,radical_code,stroke_count,hsk
 984,借,jiè,borrow; lend; make pretext of,人,9.8,10,3,1955
 985,君,jūn,"sovereign, monarch, ruler, chief, prince",口,30.4,7,6,0899
 986,禁,jìn,"restrict, prohibit, forbid",示,113.8,13,4,2863
-987,阴,yīn,,阜,170.4,6,2,0575
+987,阴,yīn,"overcast, cloudy, negative, feminine",阜,170.4,6,2,0575
 988,园,yuán,"garden; park, orchard",囗,31.4,7,3,0726
 989,谋,móu,"plan, scheme; strategem",言,149.9,11,6,2459
 990,宋,sòng,Song dynasty; surname,宀,40.4,7,,0878
 991,避,bì,avoid; turn aside; escape; hide,辵,162.13,16,5,3385
 992,抓,zhuā,"scratch; clutch, seize, grab",手,64.4,7,5,0633
 993,荣,róng,"glory, honor; flourish, prosper",艸,140.6,9,5,1415
-994,姑,gū,,女,38.5,8,5,1325
+994,姑,gū,"paternal aunt, husband's sister",女,38.5,8,5,1325
 995,孙,sūn,"grandchild, descendent; surname",子,39.3,6,4,0570
 996,逃,táo,"escape, flee; abscond, dodge",辵,162.6,9,5,1588
 997,牙,yá,"tooth, molars, teeth; serrated",牙,92.0,4,3,0102
@@ -1059,11 +1059,11 @@ frequency_rank,character,pinyin,definition,radical,radical_code,stroke_count,hsk
 1058,刺,cì,"stab; prick, irritate; prod",刀,18.6,8,5,1039
 1059,拥,yōng,"embrace, hug, squeeze; crowd",手,64.5,8,5,0974
 1060,徒,tú,"disciple, follower; go on foot",彳,60.7,10,6,1975
-1061,姆,mǔ,,女,38.5,8,6,1330
+1061,姆,mǔ,"woman who looks after small children",女,38.5,8,6,1330
 1062,杨,yáng,"willow, poplar, aspen; surname",木,75.3,7,,0689
 1063,齐,qí,"even, uniform, of equal length",齊,210.0,6,5,0518
 1064,赛,sài,"compete, contend; contest, race",宀,40.11,14,3,3172
-1065,趣,qù,,走,156.8,15,3,3194
+1065,趣,qù,"interesting",走,156.8,15,3,3194
 1066,曲,qū,"crooked, bent; wrong, false",曰,73.2,6,6,0424
 1067,刀,dāo,knife; old coin; measure,刀,18.0,2,4,0018
 1068,床,chuáng,"bed, couch; framework, chassis",广,53.4,7,2,0831

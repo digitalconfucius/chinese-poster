@@ -17,8 +17,16 @@ try:
         # Start the HTML output
         html_output = ''
         
+        wordcount = 0
+
         # Loop through each row in the CSV
         for row in reader:
+            wordcount += 1
+
+            # Skip esoteric, undefined words
+            if wordcount > 5000 and (row['definition'] == None or len(row['definition']) == 0 or row['definition'].isspace()):
+                continue
+
             # Format each row as an HTML div containing the character, pinyin, and definition
             html_output += f'''
             <div class="character-box">
