@@ -1,2 +1,2 @@
-# chinese-sea
-Swim through a sea of Chinese characters
+# chinese-poster
+Chinese poster
