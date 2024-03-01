@@ -20,7 +20,8 @@ a {
 }
 .character-box {
     flex-grow: 1;
-    min-width: 6em;
+    min-width: 5em;
+    max-width: 7em;
 }
 .pinyin {
     text-align: center;
@@ -35,9 +36,9 @@ a {
     font-size: 1em;
     display: block; /* Ensure they are on their own line */
     font-family: "Helvetica";
-    text-wrap: wrap;
-    max-width: 5em;
+    overflow-wrap: break-word;
 }
+
 .footer {
   position: fixed;
   left: 0;
