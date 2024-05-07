@@ -5,6 +5,8 @@ This website is inspired by stories of classic language learners who would print
 
 ![image](https://github.com/digitalconfucius/chinese-poster/assets/156959605/99395404-36a8-4ff2-9802-8182788dbefd)
 
+[Check out the website here](https://digitalconfucius.github.io/chinese-poster/)!
+
 # Usage
 
 ```
